@@ -1,0 +1,8 @@
+{
+  "name": "FleetWise Dispatch",
+  "description": "Production-grade fleet allocation and delivery dispatch system enforcing atomic assignment rules, zero-double-booking locks, and full delivery lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
